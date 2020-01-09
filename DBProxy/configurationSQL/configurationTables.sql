@@ -5,6 +5,7 @@
 CREATE DATABASE IF NOT EXISTS dbproxy_config CHARACTER SET utf8;
 use dbproxy_config;
 
+-- sql
 ----------------------------------
 -- Create Tables
 ----------------------------------
